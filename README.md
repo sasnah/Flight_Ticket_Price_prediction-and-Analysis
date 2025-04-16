@@ -75,9 +75,8 @@ The `Flight_Ticket(Power_Bi).pbix` file offers an interactive experience to expl
 - Line charts: Price trends over journey dates
 - Pie charts: Flight distribution by number of stops
 
->  *Open the `.pbix` file in Power BI Desktop to explore and interact with the dashboard.*
+## Dataset Source
 
-
-
+The dataset used in this project was sourced from Kaggle:https://www.kaggle.com/datasets/soylevbeytullah/flight-prices/data
 
 
