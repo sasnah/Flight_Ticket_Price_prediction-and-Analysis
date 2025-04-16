@@ -37,7 +37,7 @@ Air travel pricing is dynamic and influenced by various factors such as the airl
   - Libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `datetime`
 - **Jupyter Notebook** – for writing and running Python code
 - **Power BI Desktop** – for interactive data visualization and dashboard creation
-- **GitHub** – for version control and project sharing
+
 
 ---
 
